@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Situs Web Umum</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<nav>
+<div class="logo">Logo</div>
+<ul class="menu">
+<li><a href="#home">Beranda</a></li>
+<li><a href="#about">Tentang</a></li>
+<li><a href="#services">Layanan</a></li>
+<li><a href="#contact">Kontak</a></li>
+</ul>
+</nav>
+</header>
+
+<section id="home">
+<div class="hero">
+<h1>Selamat Datang di Situs Web Kami</h1>
+<p>Solusi terbaik untuk kebutuhan Anda.</p>
+<a href="#services" class="btn">Jelajahi</a>
+</div>
+</section>
+
+<section id="about">
+<h2>Tentang Kami</h2>
+<p>Kami adalah tim yang memelihara untuk memberikan layanan terbaik.</p>
+</section>
+
+<section id="services">
+<h2>Layanan Kami</h2>
+<div class="service-list">
+<div class="service-item">Layanan 1</div>
+<div class="service-item">Layanan 2</div>
+<div class="service-item">Layanan 3</div>
+</div>
+</section>
+
+<section id="contact">
+<h2>Kontak Kami</h2>
+<form>
+<label for="name">Nama:</label>
+<input type="text" id="name" name="name" diperlukan>
+
+<label for="email">Email:</label>
+<input type="email" id="email" name="email" diperlukan>
+
+<label for="message">Pesan:</label>
+<textarea id="message" name="message" diperlukan></textarea>
+
+<button type="submit">Kirim</button>
+</form>
+</section>
+
+<footer>
+<p>© Situs Web Umum 2024. Semua hak dilindungi.</p>
+</footer>
+</body>
+</html>
