@@ -1,0 +1,82 @@
+<link rel="lembar gaya" href="gaya.css">
+tubuh {
+    keluarga font: Arial, sans-serif;
+    batas: 0;
+    bantalan: 0;
+    warna latar belakang: #f9f9f9;
+    warna: #333;
+}
+
+
+kepala {
+    warna latar belakang: #007BFF;
+    warna: putih;
+    bantalan: 10px 20px;
+}
+
+
+tajuk navigasi {
+    tampilan: fleksibel;
+    justify-content: spasi-antara;
+    sejajarkan-item: tengah;
+}
+
+
+tajuk .menu {
+    gaya-daftar: tidak ada;
+    bantalan: 0;
+    tampilan: fleksibel;
+}
+
+
+header .menu li {
+    margin: 0 10px;
+}
+
+
+tajuk .menu ke {
+    warna: putih;
+    dekorasi teks: tidak ada;
+    bobot font: tebal;
+}
+
+
+.pahlawan {
+    teks-ratakan: tengah;
+    warna latar belakang: #007BFF;
+    warna: putih;
+    bantalan: 50px 20px;
+}
+
+
+.pahlawan .btn {
+    warna latar belakang: #0056b3;
+    warna: putih;
+    bantalan: 10px 20px;
+    dekorasi teks: tidak ada;
+    radius batas: 5px;
+}
+
+
+.pahlawan .btn:arahkan kursor {
+    warna latar belakang: #003f7f;
+}
+
+
+bagian {
+    bantalan: 40px 20px;
+}
+
+
+h2 {
+    warna: #007BFF;
+}
+
+
+catatan kaki {
+    teks-ratakan: tengah;
+    warna latar belakang: #f1f1f1;
+    bantalan: 10px;
+    ukuran font: 14px;
+    warna: #555;
+}
